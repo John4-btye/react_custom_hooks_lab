@@ -1,1 +1,1 @@
-import './test_suites/CustomHooks.test'
+import './test_suites/CustomHooks.test.jsx';
